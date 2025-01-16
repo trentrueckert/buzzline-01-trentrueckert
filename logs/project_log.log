@@ -19,3 +19,28 @@
 2025-01-15 14:56:21.544 | INFO     | __main__:main:114 - I just saw a movie! It was weird.
 2025-01-15 14:56:24.545 | INFO     | __main__:main:114 - I just shared a movie! It was amazing.
 2025-01-15 14:56:27.546 | INFO     | __main__:main:114 - I just tried a meme! It was exciting.
+2025-01-15 19:01:50.629 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 19:01:50.631 | INFO     | __main__:main:106 - START producer...
+2025-01-15 19:01:50.631 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-15 19:01:50.632 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-15 19:01:50.632 | INFO     | __main__:main:114 - I just backstocked a bag of candy! It was gnarly.
+2025-01-15 19:01:53.632 | INFO     | __main__:main:114 - I just straightened a vacuum! It was old.
+2025-01-15 19:01:56.634 | INFO     | __main__:main:114 - I just stocked a Lego set! It was old.
+2025-01-15 19:01:59.635 | INFO     | __main__:main:114 - I just stocked a bag of candy! It was old.
+2025-01-15 19:02:02.636 | INFO     | __main__:main:114 - I just unloaded a dog toy! It was broken.
+2025-01-15 19:02:05.637 | INFO     | __main__:main:114 - I just backstocked a vacuum! It was slimy.
+2025-01-15 19:02:08.638 | INFO     | __main__:main:114 - I just unloaded a Lego set! It was broken.
+2025-01-15 19:02:11.151 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 19:02:11.152 | INFO     | __main__:main:68 - START...
+2025-01-15 19:02:11.152 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
+2025-01-15 19:02:11.639 | INFO     | __main__:main:114 - I just straightened a shovel! It was slimy.
+2025-01-15 19:02:14.640 | INFO     | __main__:main:114 - I just damaged out a bag of candy! It was old.
+2025-01-15 19:02:17.641 | INFO     | __main__:main:114 - I just stocked a bag of candy! It was slimy.
+2025-01-15 19:02:20.642 | INFO     | __main__:main:114 - I just damaged out a dog toy! It was broken.
+2025-01-15 19:02:23.643 | INFO     | __main__:main:114 - I just straightened a vacuum! It was old.
+2025-01-15 19:02:26.644 | INFO     | __main__:main:114 - I just straightened a shovel! It was old.
+2025-01-15 19:02:29.646 | INFO     | __main__:main:114 - I just damaged out a shovel! It was cold.
+2025-01-15 19:02:32.647 | INFO     | __main__:main:114 - I just straightened a Lego set! It was gnarly.
+2025-01-15 19:02:35.647 | INFO     | __main__:main:114 - I just damaged out a shovel! It was slimy.
+2025-01-15 19:02:38.648 | INFO     | __main__:main:114 - I just unloaded a shovel! It was cold.
+2025-01-15 19:02:41.649 | INFO     | __main__:main:114 - I just backstocked a vacuum! It was old.
